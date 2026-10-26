@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "userId": "W10",
+      "fullName": "Alice Smith",
+      "mail": "alice@example.com",
+      "country": "India"
+    },
+    {
+      "userId": "W11",
+      "fullName": "Eve Black",
+      "mail": "eve@example.com",
+      "country": "USA"
+    },
+    {
+      "userId": "W12",
+      "fullName": "Bob Jones",
+      "mail": "BOB@example.com",
+      "country": "India"
+    }
+  ]
+}

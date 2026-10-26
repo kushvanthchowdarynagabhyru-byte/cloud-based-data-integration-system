@@ -1,0 +1,7 @@
+unified_id,customer_id,name,email,city,country,balance,sources
+U0001,C001,Alice Smith,alice@example.com,Hyderabad,India,120.5,"crm,web,billing"
+U0002,C002,Bob Jones,bob@example.com,Mumbai,India,,"crm,web"
+U0003,C003,Carol White,carol@example.com,Delhi,,75.0,"crm,billing"
+U0004,W11,Eve Black,eve@example.com,,USA,,web
+U0005,3,Frank Green,frank@example.com,,,300.25,billing
+U0006,C004,Dave Brown,,Chennai,,,crm

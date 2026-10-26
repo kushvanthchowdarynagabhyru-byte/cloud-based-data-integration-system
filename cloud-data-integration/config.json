@@ -1,0 +1,43 @@
+{
+  "storage": {
+    "type": "local",
+    "bucket_dir": "cloud_bucket"
+  },
+  "sources": [
+    {
+      "name": "crm",
+      "type": "csv",
+      "path": "sample_data/crm_customers.csv",
+      "mapping": {
+        "customer_id": "cust_id",
+        "name": "name",
+        "email": "email_addr",
+        "city": "city"
+      }
+    },
+    {
+      "name": "web",
+      "type": "json",
+      "path": "sample_data/web_signups.json",
+      "records_key": "users",
+      "mapping": {
+        "customer_id": "userId",
+        "name": "fullName",
+        "email": "mail",
+        "country": "country"
+      }
+    },
+    {
+      "name": "billing",
+      "type": "sqlite",
+      "path": "sample_data/billing.db",
+      "query": "SELECT id, customer_name, email, balance FROM customers",
+      "mapping": {
+        "customer_id": "id",
+        "name": "customer_name",
+        "email": "email",
+        "balance": "balance"
+      }
+    }
+  ]
+}

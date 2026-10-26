@@ -1,0 +1,62 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "city": "Hyderabad",
+    "country": "India",
+    "balance": 120.5,
+    "sources": "crm,web,billing",
+    "unified_id": "U0001"
+  },
+  {
+    "customer_id": "C002",
+    "name": "Bob Jones",
+    "email": "bob@example.com",
+    "city": "Mumbai",
+    "country": "India",
+    "balance": null,
+    "sources": "crm,web",
+    "unified_id": "U0002"
+  },
+  {
+    "customer_id": "C003",
+    "name": "Carol White",
+    "email": "carol@example.com",
+    "city": "Delhi",
+    "country": null,
+    "balance": 75.0,
+    "sources": "crm,billing",
+    "unified_id": "U0003"
+  },
+  {
+    "customer_id": "W11",
+    "name": "Eve Black",
+    "email": "eve@example.com",
+    "city": null,
+    "country": "USA",
+    "balance": null,
+    "sources": "web",
+    "unified_id": "U0004"
+  },
+  {
+    "customer_id": 3,
+    "name": "Frank Green",
+    "email": "frank@example.com",
+    "city": null,
+    "country": null,
+    "balance": 300.25,
+    "sources": "billing",
+    "unified_id": "U0005"
+  },
+  {
+    "customer_id": "C004",
+    "name": "Dave Brown",
+    "email": null,
+    "city": "Chennai",
+    "country": null,
+    "balance": null,
+    "sources": "crm",
+    "unified_id": "U0006"
+  }
+]

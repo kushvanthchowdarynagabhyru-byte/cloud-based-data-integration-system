@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": "C001",
+    "name": "alice smith",
+    "email_addr": "Alice@Example.com",
+    "city": "Hyderabad"
+  },
+  {
+    "cust_id": "C002",
+    "name": "bob jones",
+    "email_addr": "bob@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "cust_id": "C003",
+    "name": "carol white",
+    "email_addr": "carol@example.com",
+    "city": "Delhi"
+  },
+  {
+    "cust_id": "C004",
+    "name": "dave brown",
+    "email_addr": "",
+    "city": "Chennai"
+  }
+]

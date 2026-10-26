@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Alice Smith",
+    "email": "alice@example.com",
+    "balance": 120.5
+  },
+  {
+    "id": 2,
+    "customer_name": "Carol White",
+    "email": "carol@example.com",
+    "balance": 75.0
+  },
+  {
+    "id": 3,
+    "customer_name": "Frank Green",
+    "email": "frank@example.com",
+    "balance": 300.25
+  }
+]

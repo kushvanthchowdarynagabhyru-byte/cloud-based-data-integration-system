@@ -1,0 +1,5 @@
+cust_id,name,email_addr,city
+C001,alice smith,Alice@Example.com,Hyderabad
+C002,bob jones,bob@example.com,Mumbai
+C003,carol white,carol@example.com,Delhi
+C004,dave brown,,Chennai
